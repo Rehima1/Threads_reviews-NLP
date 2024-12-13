@@ -39,3 +39,8 @@ Below is a visual representation of the model's performance:
 - On the homepage, you'll find a form where you can select the platform (Google Play or App Store), provide a review description, and rate the app (1-5 stars).
 - After submitting the form, the app will display the sentiment of the review (Positive or Negative), along with the source (platform), rating, and review description.
 - Visit the web application: Open a browser and go to `http://127.0.0.1:5000/` to start using the review analysis tool.
+
+
+##UI
+(<img width="908" alt="image" src="https://github.com/user-attachments/assets/f3bf1f78-2e2a-46d4-952f-9f20eabd252b" />)
+
