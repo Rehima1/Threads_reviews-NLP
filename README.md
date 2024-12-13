@@ -25,12 +25,9 @@ The sentiment analysis model used in this project was built using machine learni
 - **Performance**: The model achieved an accuracy of 85% on the test set, making it reliable for predicting sentiment in new reviews.
 - **Model File**: The trained model is saved as `Threads_review.pkl` and loaded into the application for making predictions.
 - 
-- ## Model Performance
-
-Below is a visual representation of the model's performance:
-
-(<img width="551" alt="image" src="https://github.com/user-attachments/assets/702932c7-8cd5-4e18-8b25-84619f0696e0" />)
-(<img width="317" alt="image" src="https://github.com/user-attachments/assets/38ff3dd8-24f9-4f52-bb1f-c88c57eafb9e" />)
+- ## Model Performance 
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/702932c7-8cd5-4e18-8b25-84619f0696e0" />
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/38ff3dd8-24f9-4f52-bb1f-c88c57eafb9e" />
 
 
 
@@ -42,5 +39,5 @@ Below is a visual representation of the model's performance:
 
 
 ## UI
-(<img width="908" alt="image" src="https://github.com/user-attachments/assets/f3bf1f78-2e2a-46d4-952f-9f20eabd252b" />)
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/f3bf1f78-2e2a-46d4-952f-9f20eabd252b" />
 
