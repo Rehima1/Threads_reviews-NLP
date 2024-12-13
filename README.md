@@ -29,8 +29,8 @@ The sentiment analysis model used in this project was built using machine learni
 
 Below is a visual representation of the model's performance:
 
-![Model Performance](<img width="551" alt="image" src="https://github.com/user-attachments/assets/702932c7-8cd5-4e18-8b25-84619f0696e0" />)
-![Model Performance](<img width="317" alt="image" src="https://github.com/user-attachments/assets/38ff3dd8-24f9-4f52-bb1f-c88c57eafb9e" />)
+(<img width="551" alt="image" src="https://github.com/user-attachments/assets/702932c7-8cd5-4e18-8b25-84619f0696e0" />)
+(<img width="317" alt="image" src="https://github.com/user-attachments/assets/38ff3dd8-24f9-4f52-bb1f-c88c57eafb9e" />)
 
 
 
@@ -41,6 +41,6 @@ Below is a visual representation of the model's performance:
 - Visit the web application: Open a browser and go to `http://127.0.0.1:5000/` to start using the review analysis tool.
 
 
-##UI
+## UI
 (<img width="908" alt="image" src="https://github.com/user-attachments/assets/f3bf1f78-2e2a-46d4-952f-9f20eabd252b" />)
 
